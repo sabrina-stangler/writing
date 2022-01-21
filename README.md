@@ -12,4 +12,7 @@ Made with GatsbyJS template, s/o GatsbyJS + Gatsby Cloud.
 
 ## Index
 
-Wisdom Project - "It's advice for you because it had to be advice for me."
+| Title                     | Description |
+| -----------               | ----------- |
+| [Wisdom Project](https://github.com/sabrina-stangler/writing/blob/main/WisdomProject.md) | "It's advice for you because it had to be advice for me." |
+| [001 Why Write Articles](https://github.com/sabrina-stangler/writing/blob/main/why-write-articles.md) | In this brief article, I’ll answer the question “Why write articles?” through the lens of impostor syndrome, the 1% rule of the internet, and representative media. |
